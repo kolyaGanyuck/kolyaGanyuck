@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center"> Hi,👋 I`m Mycola Ganyuck</h1>
+<h4> About Me:</h4>
+<br>
+<ul>
 
-<!--
-**kolyaGanyuck/kolyaGanyuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li>I`m 19 years old student of cybersecurity at Chernihiv national university</li>
+<li>I`m interested in backend development </li>
+<li>I have some repositories with project where i`m trying to improve my knowledge with practice</li>
+</ul>
+<div>
+<h4 align="left">🛠 Languages and Tools:</h4>
+<img align="left" alt="Java" width="30px" height="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" height="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Java" width="30px" height="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+<img align="left" alt="Java" width="30px" height="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Java" width="30px" height="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+<img align="left" alt="Java" width="30px" height="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="30px" height="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
+</div>
+</br>
+</br>
 
-Here are some ideas to get you started:
+Likes to solve problems on the Codewars and Linkedin 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Codewars](https://github.r2v.ch/codewars?user=kolya_aa&name=true&top_languages=true&stroke=%23b36244&theme=gradient)
