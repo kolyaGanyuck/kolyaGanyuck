@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,👋 I`m Mykola Ganyuck</h1>
+<h1 align="center"> Hi,👋 I`m Mykola Haniuk</h1>
 <h4> About Me:</h4>
 <br>
 <ul>
