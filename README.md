@@ -26,7 +26,7 @@
 
 <br>
 
-<img style="vertical-align: middle; margin-right: 5px;" width="30" height="30" src="https://img.icons8.com/color/48/motorcycle.png" alt="motorcycle" />[`Moto Shop`](https://github.com/kolyaGanyuck/moto-shop)
+<img style="vertical-align: middle; margin-right: 5px;" width="20" height="20" src="https://img.icons8.com/color/48/motorcycle.png" alt="motorcycle" />[`Moto Shop`](https://github.com/kolyaGanyuck/moto-shop)
 
 **Description:** Moto shop is my first web project. The project has been developed at the beginning of my study of the Spring framework. In the project, I implemented CRUD operations, a simple UI and JWT authorization.</p>
 
