@@ -16,17 +16,17 @@
 <ul>
     <li class="project-list">
         <img style="vertical-align: middle; margin-right: 5px;" width="20" height="20" src="https://img.icons8.com/cute-clipart/64/book.png" alt="book" />
-        <a href="https://github.com/kolyaGanyuck/BooksStore">BookStore</a>  
+        [`BookStore`](https://github.com/kolyaGanyuck/BooksStore) 
         <p><strong>Description:</strong> BookStore is a full-stack REST web application that allows users to explore, interact with, and manage books. The platform offers a range of features, ensuring a smooth user experience while handling various book-related operations. The service includes both user-facing functionalities and administrative tools for comprehensive management.</p>
     </li>
     <li class="project-list">
         <img style="vertical-align: middle; margin-right: 5px;" width="20" height="20" src="https://img.icons8.com/color/48/to-do.png" alt="to-do" />
-        <a href="https://github.com/kolyaGanyuck/task-tracker">Task Tracker</a>
+        [`Task Tracker`](https://github.com/kolyaGanyuck/task-tracker)
         <p><strong>Description:</strong> Task Tracker is a REST application that helps users manage their projects from the initial planning stage to completion. It allows users to create, organize, and monitor tasks throughout the project lifecycle. Key features include tracking task progress, setting deadlines, assigning tasks, and updating project statuses to ensure smooth workflow management and timely delivery.</p>
     </li>
     <li class="project-list">
         <img style="vertical-align: middle; margin-right: 5px;" width="20" height="20" src="https://img.icons8.com/color/48/motorcycle.png" alt="motorcycle" />
-        <a href="https://github.com/kolyaGanyuck/moto-shop">Moto Shop</a>
+        [`Moto Shop`](https://github.com/kolyaGanyuck/moto-shop)
         <p><strong>Description:</strong> Moto shop is my first web project. The project has been developed at the beginning of my study of the Spring framework. In the project, I implemented CRUD operations, a simple UI and JWT authorization.</p>
     </li>
 </ul>
