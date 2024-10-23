@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiast about coding </h3>
 
 <div align="center">
-    <img height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Gif">
+    <img height="200px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Gif">
 </div>
 
 <h3>About Me:</h3>
