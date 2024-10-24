@@ -14,7 +14,7 @@
 
 <h1><img width="30" height="30" src="https://img.icons8.com/color/48/project-management.png" alt="project-management"/> Pet-Projects:</h1>
 
-<img style="vertical-align: middle; margin-right: 5px;" width="20" height="20" src="https://img.icons8.com/cute-clipart/64/book.png" alt="book" />[`BookStore`](https://github.com/kolyaGanyuck/BooksStore)
+<img style="vertical-align: middle; margin-right: 5px;" width="20" height="20" src="https://img.icons8.com/cute-clipart/64/book.png" alt="book" />[`Book Store`](https://github.com/kolyaGanyuck/BooksStore)
 
 **Description:** BookStore is a full-stack REST web application that allows users to explore, interact with, and manage books. The platform offers a range of features, ensuring a smooth user experience while handling various book-related operations. The service includes both user-facing functionalities and administrative tools for comprehensive management.
 
